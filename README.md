@@ -1,7 +1,7 @@
 # XM
 FREE TOOLS 
 
-Update MAFIA 1.11
+Update MAFIA 1.12
 
 pkg update
 
